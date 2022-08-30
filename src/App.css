@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.nav-bg{
+    background: #724f04ad;
+}
+.navbar-nav .nav-link{
+    color: #fff !important; 
+}
+.navbar-toggler{
+    outline: none !important;
+}
