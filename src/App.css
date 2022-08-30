@@ -148,3 +148,44 @@ body {
    }
 }
 /*---End of Hero---*/
+/*------About Us------*/
+.tabs .nav-pills .nav-item{
+    margin-bottom: 10px;
+}
+.tabs .nav-pills .nav-item .nav-link{
+    background: #fff;
+    border-radius: 4px;
+    color: #000;
+    font-weight: bold;
+    border: 1px solid rgba(180, 125, 7, 0.6);
+    font-size: 20px;
+    line-height: 30px;
+}
+.tabs .nav-pills .nav-item .nav-link span {
+    color: #724f04ad;
+    font-size: 30px;
+}
+.tabs .nav-pills .nav-item .nav-link.active{
+    color: #fff;
+    background: #724f04ad;
+    border: 1px solid #110c01eb;
+}
+.tabs .nav-pills .nav-item .nav-link.active span{
+    color: #fff;
+}
+.tabs .tab-content{
+    background: #fff;
+    padding: 0;
+}
+.tabs .tab-content .img{/*images-size for this section 1000 x 667 */
+    width: 100%;
+    height: 400px;
+    margin-bottom: 20px;
+}
+.tabs .tab-content h3{
+    font-weight: bold;
+}
+.tabs .tab-content h3 a{
+    color: #000;
+}
+/*------End of About Us------*/
