@@ -1,5 +1,10 @@
 import React from 'react'
 import About1 from '../images/about-1.jpg';
+import About2 from '../images/about-9.jpg';
+import About3 from '../images/about-3.jpg';
+import About4 from '../images/about-8.jpeg';
+import About5 from '../images/about-5.jpg';
+import About6 from '../images/about-4.jpg';
 
 const About = () => {
   return (
@@ -47,6 +52,51 @@ const About = () => {
              active' id='about-1'>
               <img src={About1} className='img' alt='about image 1'/>
               <h3><a href='#'>About Us</a></h3>
+              <p>Lorem ipsum, dolor sit amet consectetur adipisicing
+                 elit. Aut dicta amet enim corrupti aspernatur, 
+                 cumque libero adipisci harum unde,ad expedita 
+                 nobis quisquam laboriosam fugiat!</p>
+             </div>
+             <div className='tab-pane container p-0
+             ' id='about-2'>
+              <img src={About2} className='img' alt='about image 1'/>
+              <h3><a href='#'>Our Beginning</a></h3>
+              <p>Lorem ipsum, dolor sit amet consectetur adipisicing
+                 elit. Aut dicta amet enim corrupti aspernatur, 
+                 cumque libero adipisci harum unde,ad expedita 
+                 nobis quisquam laboriosam fugiat!</p>
+             </div>
+             <div className='tab-pane container p-0
+             ' id='about-3'>
+              <img src={About3} className='img' alt='about image 1'/>
+              <h3><a href='#'>Our Mission</a></h3>
+              <p>Lorem ipsum, dolor sit amet consectetur adipisicing
+                 elit. Aut dicta amet enim corrupti aspernatur, 
+                 cumque libero adipisci harum unde,ad expedita 
+                 nobis quisquam laboriosam fugiat!</p>
+             </div>
+             <div className='tab-pane container p-0
+             ' id='about-4'>
+              <img src={About4} className='img' alt='about image 1'/>
+              <h3><a href='#'>Our Vision</a></h3>
+              <p>Lorem ipsum, dolor sit amet consectetur adipisicing
+                 elit. Aut dicta amet enim corrupti aspernatur, 
+                 cumque libero adipisci harum unde,ad expedita 
+                 nobis quisquam laboriosam fugiat!</p>
+             </div>
+             <div className='tab-pane container p-0
+             ' id='about-5'>
+              <img src={About5} className='img' alt='about image 1'/>
+              <h3><a href='#'>Our Mandate</a></h3>
+              <p>Lorem ipsum, dolor sit amet consectetur adipisicing
+                 elit. Aut dicta amet enim corrupti aspernatur, 
+                 cumque libero adipisci harum unde,ad expedita 
+                 nobis quisquam laboriosam fugiat!</p>
+             </div>
+             <div className='tab-pane container p-0
+             ' id='about-6'>
+              <img src={About6} className='img' alt='about image 1'/>
+              <h3><a href='#'>Our Plans</a></h3>
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing
                  elit. Aut dicta amet enim corrupti aspernatur, 
                  cumque libero adipisci harum unde,ad expedita 
