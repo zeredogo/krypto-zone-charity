@@ -1,4 +1,5 @@
 import React from 'react'
+import About1 from '../images/about-1.jpg';
 
 const About = () => {
   return (
@@ -39,6 +40,19 @@ const About = () => {
               href='#about-6'>Our Plans</a>
             </li>
           </ul>
+        </div>
+        <div className='col-md-8'>
+          <div className='tab-content'>
+            <div className='tab-pane container p-0
+             active' id='about-1'>
+              <img src={About1} className='img' alt='about image 1'/>
+              <h3><a href='#'>About Us</a></h3>
+              <p>Lorem ipsum, dolor sit amet consectetur adipisicing
+                 elit. Aut dicta amet enim corrupti aspernatur, 
+                 cumque libero adipisci harum unde,ad expedita 
+                 nobis quisquam laboriosam fugiat!</p>
+             </div>
+          </div>
         </div>
        </div>
       </div>    
