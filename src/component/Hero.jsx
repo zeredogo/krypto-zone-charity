@@ -1,4 +1,5 @@
 import React from 'react'
+import { FaChevronLeft, FaChevronRight } from 'react-icons/fa';
 
 const Hero = () => {
   return (
@@ -63,13 +64,13 @@ const Hero = () => {
         data-slide="prev">
         <span class="carousel-control-prev-icon fas
         fa-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
+        <span class="sr-only"><FaChevronLeft/></span>
       </a>
       <a class="carousel-control-next" href="#heroCarousel" role="button"
         data-slide="next"> 
         <span class="carousel-control-next-icon fas
         fa-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
+        <span class="sr-only"><FaChevronRight/></span>
       </a>
       </div>
        </section>
