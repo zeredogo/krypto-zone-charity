@@ -6,6 +6,7 @@ import Footer from './component/Footer';
 import Navbar from './component/Navbar';
 import Hero from './component/Hero';
 import About from './component/About';
+import Stories from './component/Stories';
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
         <Navbar />
         <Hero />
         <About />
+        <Stories />
         <Footer />
     </section>
   )
