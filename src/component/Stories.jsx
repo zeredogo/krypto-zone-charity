@@ -17,7 +17,9 @@ const Stories = () => {
               <div class="col-md-4">
                 <div class="story-box overlay shadow">
                   <div class="story-icon">
-                    <FaAmbulance />
+                   <div>
+                   <FaAmbulance />
+                   </div>
                   </div>
                   <h2>Health</h2>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing
@@ -29,7 +31,9 @@ const Stories = () => {
               <div class="col-md-4">
                 <div class="story-box overlay shadow">
                   <div class="story-icon">
+                    <div>
                     <FaWater />
+                    </div>
                   </div>
                   <h2>Clean Water</h2>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing
@@ -41,7 +45,9 @@ const Stories = () => {
               <div class="col-md-4">
                 <div class="story-box overlay shadow">
                   <div class="story-icon">
+                    <div>
                     <FaBook />
+                    </div>
                   </div>
                   <h2>Education</h2>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing
