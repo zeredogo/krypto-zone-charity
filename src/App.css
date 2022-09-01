@@ -202,7 +202,7 @@ body {
     text-align: center;
     line-height: 90px;
 }
-.story-icon i{
+.story-icon div{
     font-size: 50px;
     color: #fff;
     mix-blend-mode: difference;
