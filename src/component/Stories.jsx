@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaAmbulance, FaBook, FaWater } from 'react-icons/fa'
+import { FaAmbulance, FaBook, FaWater } from 'react-icons/fa';
 
 const Stories = () => {
   return (

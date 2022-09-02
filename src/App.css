@@ -234,6 +234,7 @@ body {
     content: '';
     width: 50%;
     height: 100%;
+    color: #fff;
     background: #724f04ad;
     position: absolute;
     top:0;
@@ -242,6 +243,7 @@ body {
 }
 .overlay:hover:before{
     background: #724f04ad;
+    color: #fff;
     width: 100%;
     border-radius: 10px;
 }
