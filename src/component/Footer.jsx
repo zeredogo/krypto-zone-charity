@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin, FaChevronRight } from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -41,6 +41,65 @@ const Footer = () => {
                 </div>
               </div>
             </div>
+            <div class="col-lg-2 col-nd-6 footer-links">
+                <h4>Useful links</h4>
+                <ul>
+                  <li>
+                    <FaChevronRight />
+                    <a href="">Lorem Ipsum</a>
+                  </li>
+                  <li>
+                   <FaChevronRight />
+                    <a href="">Lorem Ipsum</a>
+                  </li>
+                  <li>
+                   <FaChevronRight />
+                    <a href="">Lorem Ipsum</a>
+                  </li>
+                  <li>
+                   <FaChevronRight />
+                    <a href="">Lorem Ipsum</a>
+                  </li>
+                  <li>
+                   <FaChevronRight />
+                    <a href="">Lorem Ipsum</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 col-nd-6 footer-links">
+                <h4>About Us</h4>
+                <ul>
+                  <li>
+                    <FaChevronRight />
+                    <a href="">Lorem Ipsum</a>
+                  </li>
+                  <li>
+                   <FaChevronRight />
+                    <a href="">Lorem Ipsum</a>
+                  </li>
+                  <li>
+                   <FaChevronRight />
+                    <a href="">Lorem Ipsum</a>
+                  </li>
+                  <li>
+                   <FaChevronRight />
+                    <a href="">Lorem Ipsum</a>
+                  </li>
+                  <li>
+                   <FaChevronRight />
+                    <a href="">Lorem Ipsum</a>
+                  </li>
+                </ul>
+              </div>
+              <div className="col-lg-4 col-md-6 footer-newsletter">
+                <h4>Our News Letters</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing 
+                  elit.</p>
+                  <form>
+                    <input type='email' name='email'/>
+                    <input type='submit' value='Subscribe'/> 
+                  </form>
+              </div>
           </div>
         </div>
        </div>
