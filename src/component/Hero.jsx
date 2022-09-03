@@ -62,15 +62,15 @@ const Hero = () => {
         
         <a className="carousel-control-prev" href="#heroCarousel" role="button"
         data-slide="prev">
-        <span class="carousel-control-prev-icon fas
+        <span className="carousel-control-prev-icon fas
         fa-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only"><FaChevronLeft/></span>
+        <span className="sr-only"><FaChevronLeft/></span>
       </a>
-      <a class="carousel-control-next" href="#heroCarousel" role="button"
+      <a className="carousel-control-next" href="#heroCarousel" role="button"
         data-slide="next"> 
-        <span class="carousel-control-next-icon fas
+        <span className="carousel-control-next-icon fas
         fa-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only"><FaChevronRight/></span>
+        <span className="sr-only"><FaChevronRight/></span>
       </a>
       </div>
        </section>
@@ -79,4 +79,4 @@ const Hero = () => {
   )
 }
 
-export default Hero
+export default Hero;
