@@ -10,6 +10,7 @@ import Stories from './component/Stories';
 import Projects from './component/Projects';
 import Team from './component/Team';
 import FinishedProject from './component/FinishedProject';
+import Donation from './component/Donation';
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
         <Projects />
         <Team />
         <FinishedProject />
+        <Donation />
         <Footer />
     </section>
   )

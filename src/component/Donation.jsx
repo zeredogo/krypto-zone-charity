@@ -43,15 +43,19 @@ const Donation = () => {
                       </div>
                       <div className="funds">
                         <input type="radio" name="radio-group" />
-                        <label for="fund-1">10</label>
+                        <label for="fund-1">$50</label>
                       </div>
                       <div className="funds">
                         <input type="radio" name="radio-group"/>
-                        <label for="fund-2">50</label>
+                        <label for="fund-2">$100</label>
+                      </div>
+                      <div className="funds">
+                        <input type="radio" name="radio-group"/>
+                        <label for="fund-2">$200</label>
                       </div>
                       <div className="funds">
                         <input type="radio" name="radio-group" />
-                        <label for="Other">Other</label>
+                        <label for="Other">Others</label>
                       </div>
                     </div>
                     </div>
