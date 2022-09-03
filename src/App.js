@@ -9,6 +9,7 @@ import About from './component/About';
 import Stories from './component/Stories';
 import Projects from './component/Projects';
 import Team from './component/Team';
+import FinishedProject from './component/FinishedProject';
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
         <Stories />
         <Projects />
         <Team />
+        <FinishedProject />
         <Footer />
     </section>
   )
