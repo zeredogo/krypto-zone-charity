@@ -383,3 +383,255 @@ body {
     }
 }
 /*-----End of Team Section------*/
+/*===Finished Project===*/
+.project-item{
+    display: block;
+    position: relative;
+    overflow: hidden;
+    max-width: 530px;
+    margin: auto auto 16px;
+}
+.project-item .text{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(1, 39, 13, 0.2);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+}
+.project-item .text .des{
+    color: #fff;
+    margin: auto 32px 32px;
+}
+.project-item .text .des h2{
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.project-item .text .des p{
+    font-weight: light;
+    font-size: 20px;
+}
+@media(min-width:992px){
+    .project-item{
+        max-width: none;
+        margin: 0;
+    }
+    .project-item .text{
+        transition: clip-path 0.25s ease-out, background-color 0.7s;
+        clip-path: inset(0px);
+    }
+    .project-item .text .des{
+        transition: opacity 0.25s;
+        margin-left: 80px;
+        margin-right: 80px;
+        margin-bottom: 80px;
+    }
+    .project-item img{
+        transition: clip-path 0.25s ease-out;
+        clip-path: inset(-1px);
+    }
+    .project-item:hover img{
+        clip-path: inset(32px);
+    }
+    .project-item:hover .text{
+        background-color: #8f6306a3;
+    }
+}
+/*===End of Finished Project===*/
+/*===Donation Section===*/
+.donation-form .input-field .input-group{
+    width: 100%;
+    border: 1px solid #8f6306a3;
+    border-radius: 7px;
+    padding: 5px 10px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.donation-form .input-field .input-group .input-group-text{
+    font-size: 16px;
+    background: transparent;
+    border: 0;
+    font-weight: bold;
+}
+.donation-form .input-field .input-group .form-control{
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    border-bottom: 0;
+    border-top: 0;
+    border-radius: 0;
+    border-right: 0;
+    padding: 0 0 0 25px;
+    height: 50px;
+    font-size: 16px;
+    color: #000;
+}
+.donation-form .input-field .input-group .form-control:placeholder{
+    font-size: 16px;
+    color: #7a7b7c;
+    font-weight: 400;
+}
+.donation-form .input-field .input-group .form-control:focus{
+    outline: none;
+    box-shadow: none;
+}
+.donation-form .amount .need{
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+    padding: 18px 27px;
+    border-radius: 7px;
+    border: 1px solid #8f6306a3;
+    display: block;
+    overflow: hidden;
+}
+@media(max-width: 767px){
+    .donation-form .amount .need{
+        display: block !important;
+        margin-top: 15px;
+    }
+}
+.donation-form .amount .need .select h5{
+    font-size: 16px;
+    color: #7a7b7c;
+    margin-bottom: 0;
+}
+.donation-form .amount .need .fund label{
+    font-size: 16px;
+    font-weight: 400;
+    color: #7a7b7c;
+    margin-bottom: 0;
+}
+@media(max-width: 767px){
+    .donation-form .amount .need .fund{
+        width: 33.33%;
+        float: left;
+        margin-top: 15px;
+    }
+}
+.donation-btn{
+    margin-top: 50px;
+}
+.btn-don{
+    background: #8f6306a3;
+    color: #fff;
+    border-radius: 50px;
+}
+.btn-don:hover{
+    color: #000;
+}
+/*===End of Donation Section===*/
+.footer{
+    background: linear-gradient(#7a7b7c, #8f6306a3);
+    padding: 0 0 30px 0;
+    color: #000;
+    font-size: 15px;
+}
+.footer .footer-top{
+    padding: 50px 0 30px 0;
+}
+.footer .footer-top .footer-des{
+    margin-top: -90px;
+    margin-bottom: 15px;
+    background: #8f6306a3;
+    color: #fff;
+    border-top: 4px solid #e2cc9ec2;
+    text-align: center;
+    padding: 30px 20px;
+}
+.footer .footer-top .footer-des h3{
+    font-size: 24px;
+    margin: 0 0 2px 0;
+    padding: 2px 0 2px 0;
+    line-height: 1;
+    font-weight: bold;
+}
+.footer .footer-top .footer-des p{
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 0;
+}
+.footer .footer-top .social-links a{
+    font-size: 18px;
+    display: inline-block;
+    background: #e2cc9ec2;
+    color: #000;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+}
+.footer .footer-top .social-links a:hover{
+    background: #8f6306a3;
+    color: #fff;
+    text-decoration: none;
+}
+.footer .footer-top h4{
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+    position: relative;
+    padding-bottom: 12px;
+}
+.footer .footer-top .footer-links{
+    margin-bottom: 30px;
+}
+.footer .footer-top .footer-links ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.footer.footer-top .footer-links ul i{
+    padding-right: 2px;
+    color: #000;
+    font-size: 18px;
+    line-height: 1;
+}
+.footer.footer-top .footer-links ul li{
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+}
+.footer.footer-top .footer-links ul li:first-child{
+    padding-top: 0;
+}
+.footer .footer-top .footer-links ul a{
+    color: #000;
+    transition: 0.3s;
+    display: inline-block;
+    line-height: 1;
+}
+.footer .footer-top .footer-links ul a:hover{
+    color: #8f6306a3;
+}
+.footer .footer-top .footer-newsletter form{
+    margin-top: 30px;
+    background: #fff;
+    padding: 6px 10px;
+    position: relative;
+    border-radius: 4;
+}
+.footer .footer-top .footer-newsletter form input[type="email"]{
+    border: 0;
+    padding: 4px;
+    width: calc(100% - 110px);
+}
+.footer .footer-top .footer-newsletter form input[type="submit"]{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border: 0;
+    background: none;
+    font-size: 16px;
+    padding: 0 20px;
+    background: #8f6306a3;
+    color: #fff;
+    transition: 0.3s;
+    border-radius: 4;
+}
+.footer .footer-top .footer-newsletter form input[type="submit"]:hover{
+    background: #e2cc9ec2;
+    color: #8f6306a3;
+}
