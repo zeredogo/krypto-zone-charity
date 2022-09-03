@@ -1,20 +1,20 @@
-import React from 'react'
+import React from 'react';
 import { FaChevronLeft, FaChevronRight } from 'react-icons/fa';
 
 const Hero = () => {
   return (
     
         
-       <section id="hero" class="d-flex justify-content-center align-items-center">
-        <div id="heroCarousel" class="container carousel carousel-fade"
+       <section id="hero" className="d-flex justify-content-center align-items-center">
+        <div id="heroCarousel" className="container carousel carousel-fade"
         data-ride="carousel">
         
-        <div class="carousel-item active">
-          <div class="carousel-container">
-            <h2 class="animate__animated animate__backInDown">
+        <div className="carousel-item active">
+          <div className="carousel-container">
+            <h2 className="animate__animated animate__backInDown">
               Let's <span>Help</span>
             </h2>
-            <p class="animate__animated animate__fadeInUp">
+            <p className="animate__animated animate__fadeInUp">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Aperiam iure beatae alias quod, ducimus explicabo.
               adipisicing elit.
