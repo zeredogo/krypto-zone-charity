@@ -1,4 +1,9 @@
 import React from 'react';
+import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import Team1 from "../images/image-1.jpg";
+import Team2 from "../images/image-2.jpg";
+import Team3 from "../images/image-3.jpg";
+import Team4 from "../images/image-3.jpg";
 
 
 const Team = () => {
@@ -16,23 +21,23 @@ const Team = () => {
             <div class="col-xl-3 col-lg-4 col-md-6">
               <div class="team-1">
                 <div class="pic">
-                  <img src="../images/image-1.jpg" class="img-fluid" alt=""/>
+                  <img src={Team1} class="img-fluid" alt=""/>
                 </div>
                 <div class="team-info">
                   <h4>Wizkid</h4>
                   <span>Specification</span>
                   <div class="social">
                     <a href="">
-                      <i class="fab fa-twitter"></i>
+                      <FaTwitter />
                     </a>
                     <a href="">
-                      <i class="fab fa-facebook"></i>
+                      <FaFacebook />
                     </a>
                     <a href="">
-                      <i class="fab fa-instagram"></i>
+                      <FaInstagram />
                     </a>
                     <a href="">
-                      <i class="fab fa-linkedin"></i>
+                      <FaLinkedin />
                     </a>
                   </div>
                 </div>
@@ -42,7 +47,7 @@ const Team = () => {
             <div class="col-xl-3 col-lg-4 col-md-6">
               <div class="team-1">
                 <div class="pic">
-                  <img src="../images/image-2.jpg" class="img-fluid" alt=""/>
+                  <img src={Team2} class="img-fluid" alt=""/>
                 </div>
                 <div class="team-info">
                   <h4>Burna Boy</h4>
@@ -68,7 +73,7 @@ const Team = () => {
             <div class="col-xl-3 col-lg-4 col-md-6">
               <div class="team-1">
                 <div class="pic">
-                  <img src="../images/image-3.jpg" class="img-fluid" alt=""/>
+                  <img src={Team3} class="img-fluid" alt=""/>
                 </div>
                 <div class="team-info">
                   <h4>Davido</h4>
@@ -94,7 +99,7 @@ const Team = () => {
             <div class="col-xl-3 col-lg-4 col-md-6">
               <div class="team-1">
                 <div class="pic">
-                  <img src="../images/image-3.jpg" class="img-fluid" alt=""/>
+                  <img src={Team4} class="img-fluid" alt=""/>
                 </div>
                 <div class="team-info">
                   <h4>Ice Prince</h4>
