@@ -9,24 +9,24 @@ import Team4 from "../images/image-3.jpg";
 const Team = () => {
     return (
         
-       <section class="team">
-        <div class="container">
-          <div class="section-title">
-            <h2 class="text-center">Our Team</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur 
+       <section className="team">
+        <div className="container">
+          <div className="section-title">
+            <h2 className="text-center">Our Team</h2>
+            <p className="text-center">Lorem ipsum dolor sit amet consectetur 
               adipisicing elit. Animi, aspernatur. Blanditiis velit facilis 
               rerum laudantium at.</p>
           </div>
-          <div class="row">
-            <div class="col-xl-3 col-lg-4 col-md-6">
-              <div class="team-1">
-                <div class="pic">
-                  <img src={Team1} class="img-fluid" alt=""/>
+          <div className="row">
+            <div className="col-xl-3 col-lg-4 col-md-6">
+              <div className="team-1">
+                <div className="pic">
+                  <img src={Team1} className="img-fluid" alt=""/>
                 </div>
-                <div class="team-info">
+                <div className="team-info">
                   <h4>Wizkid</h4>
                   <span>Specification</span>
-                  <div class="social">
+                  <div className="social">
                     <a href="">
                       <FaTwitter />
                     </a>
@@ -44,15 +44,15 @@ const Team = () => {
               </div>
             </div>
             
-            <div class="col-xl-3 col-lg-4 col-md-6">
-              <div class="team-1">
-                <div class="pic">
-                  <img src={Team2} class="img-fluid" alt=""/>
+            <div className="col-xl-3 col-lg-4 col-md-6">
+              <div className="team-1">
+                <div className="pic">
+                  <img src={Team2} className="img-fluid" alt=""/>
                 </div>
-                <div class="team-info">
+                <div className="team-info">
                   <h4>Burna Boy</h4>
                   <span>Specification</span>
-                  <div class="social">
+                  <div className="social">
                     <a href="">
                       <FaTwitter />
                     </a>
@@ -70,15 +70,15 @@ const Team = () => {
               </div>
             </div>
             
-            <div class="col-xl-3 col-lg-4 col-md-6">
-              <div class="team-1">
-                <div class="pic">
-                  <img src={Team3} class="img-fluid" alt=""/>
+            <div className="col-xl-3 col-lg-4 col-md-6">
+              <div className="team-1">
+                <div className="pic">
+                  <img src={Team3} className="img-fluid" alt=""/>
                 </div>
-                <div class="team-info">
+                <div className="team-info">
                   <h4>Davido</h4>
                   <span>Specification</span>
-                  <div class="social">
+                  <div className="social">
                     <a href="">
                       <FaTwitter />
                     </a>
@@ -96,15 +96,15 @@ const Team = () => {
               </div>
             </div>
             
-            <div class="col-xl-3 col-lg-4 col-md-6">
-              <div class="team-1">
-                <div class="pic">
-                  <img src={Team4} class="img-fluid" alt=""/>
+            <div className="col-xl-3 col-lg-4 col-md-6">
+              <div className="team-1">
+                <div className="pic">
+                  <img src={Team4} className="img-fluid" alt=""/>
                 </div>
-                <div class="team-info">
+                <div className="team-info">
                   <h4>Ice Prince</h4>
                   <span>Specification</span>
-                  <div class="social">
+                  <div className="social">
                     <a href="">
                       <FaTwitter />
                     </a>
