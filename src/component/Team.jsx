@@ -54,16 +54,16 @@ const Team = () => {
                   <span>Specification</span>
                   <div class="social">
                     <a href="">
-                      <i class="fab fa-twitter"></i>
+                      <FaTwitter />
                     </a>
                     <a href="">
-                      <i class="fab fa-facebook"></i>
+                      <FaFacebook />
                     </a>
                     <a href="">
-                      <i class="fab fa-instagram"></i>
+                      <FaInstagram />
                     </a>
                     <a href="">
-                      <i class="fab fa-linkedin"></i>
+                      <FaLinkedin />
                     </a>
                   </div>
                 </div>
@@ -80,16 +80,16 @@ const Team = () => {
                   <span>Specification</span>
                   <div class="social">
                     <a href="">
-                      <i class="fab fa-twitter"></i>
+                      <FaTwitter />
                     </a>
                     <a href="">
-                      <i class="fab fa-facebook"></i>
+                      <FaFacebook />
                     </a>
                     <a href="">
-                      <i class="fab fa-instagram"></i>
+                      <FaInstagram />
                     </a>
                     <a href="">
-                      <i class="fab fa-linkedin"></i>
+                      <FaLinkedin />
                     </a>
                   </div>
                 </div>
@@ -106,16 +106,16 @@ const Team = () => {
                   <span>Specification</span>
                   <div class="social">
                     <a href="">
-                      <i class="fab fa-twitter"></i>
+                      <FaTwitter />
                     </a>
                     <a href="">
-                      <i class="fab fa-facebook"></i>
+                      <FaFacebook />
                     </a>
                     <a href="">
-                      <i class="fab fa-instagram"></i>
+                      <FaInstagram />
                     </a>
                     <a href="">
-                      <i class="fab fa-linkedin"></i>
+                      <FaLinkedin />
                     </a>
                   </div>
                 </div>
