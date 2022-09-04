@@ -13,10 +13,10 @@ const Stories = () => {
                 aperiam necessitatibus nisi pariatur doloribus. </p>
             </div>
             
-            <div class="row">
-              <div class="col-md-4">
-                <div class="story-box overlay shadow">
-                  <div class="story-icon">
+            <div className="row">
+              <div className="col-md-4">
+                <div className="story-box overlay shadow">
+                  <div className="story-icon">
                    <div>
                    <FaAmbulance />
                    </div>
@@ -28,9 +28,9 @@ const Stories = () => {
                 </div>
               </div>
               
-              <div class="col-md-4">
-                <div class="story-box overlay shadow">
-                  <div class="story-icon">
+              <div className="col-md-4">
+                <div className="story-box overlay shadow">
+                  <div className="story-icon">
                     <div>
                     <FaWater />
                     </div>
@@ -42,9 +42,9 @@ const Stories = () => {
                 </div>
               </div>
               
-              <div class="col-md-4">
-                <div class="story-box overlay shadow">
-                  <div class="story-icon">
+              <div className="col-md-4">
+                <div className="story-box overlay shadow">
+                  <div className="story-icon">
                     <div>
                     <FaBook />
                     </div>
@@ -63,4 +63,4 @@ const Stories = () => {
   )
 }
 
-export default Stories
+export default Stories;

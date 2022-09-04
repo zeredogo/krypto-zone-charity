@@ -79,7 +79,8 @@ const Team = () => {
                   <h4>Davido</h4>
                   <span>Specification</span>
                   <div className="social">
-                    <a href="">
+                    
+                  </div><a href="">
                       <FaTwitter />
                     </a>
                     <a href="">
@@ -117,7 +118,6 @@ const Team = () => {
                     <a href="">
                       <FaLinkedin />
                     </a>
-                  </div>
                 </div>
               </div>
             </div>

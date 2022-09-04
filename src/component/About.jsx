@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import About1 from '../images/about-1.jpg';
 import About2 from '../images/about-9.jpg';
 import About3 from '../images/about-3.jpg';
@@ -111,4 +111,4 @@ const About = () => {
   )
 }
 
-export default About
+export default About;
