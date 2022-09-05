@@ -23,7 +23,7 @@ const Footer = () => {
                      <strong><br></br>
                       Email:
                      </strong>
-                     test@info.com
+                     kryptozone@gmail.com
                 </p>
                 <div className='social-links mt-3'>
                 <a href="">
