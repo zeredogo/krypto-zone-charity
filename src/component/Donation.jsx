@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Donation = () => {
   return (
@@ -77,4 +77,4 @@ const Donation = () => {
   )
 }
 
-export default Donation
+export default Donation;
