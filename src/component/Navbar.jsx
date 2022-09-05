@@ -14,10 +14,6 @@ const Navbar = () => {
         </button>
         <div className="collapse navbar-collapse" id="myNavbar">
             <ul className="navbar-nav ml-auto my-2 my-lg-0">
-                <li className="nav-item"><a class="nav-link" href="#">About</a></li>
-                <li className="nav-item"><a class="nav-link" href="#">Stories</a></li>
-                <li className="nav-item"><a class="nav-link" href="#">Projects</a></li>
-                <li className="nav-item"><a class="nav-link" href="#">Team</a></li>
                 <li className="nav-item"><a class="nav-link" href="#">Donation</a></li>
             </ul>
         </div>
