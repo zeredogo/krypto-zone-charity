@@ -1,12 +1,12 @@
-import React from 'react'
+import React from 'react';
 import { FaAmbulance, FaBook, FaWater } from 'react-icons/fa';
 
 const Stories = () => {
   return (
-    <section class="mt-3">
-        <div class="stories">
-          <div class="container">
-            <div class="section-title text-center">
+    <section className="mt-3">
+        <div className="stories">
+          <div className="container">
+            <div className="section-title text-center">
               <h3>Stories</h3>
               <p>Lorem ipsum dolor sit, amet consectetur adipisicing 
                 elit. Modi illum molestias exercitationem aspernatur 
