@@ -15,7 +15,7 @@ const Footer = () => {
                     adipisicing elit. Dolor nisi illo sit.</em>
                 </p>
                 <p>Tudun-Wada Stress <br></br>
-                SP 12345, Nigeria
+                SP 55B, Nigeria
                   <strong> <br></br>
                       Phone:
                     </strong>
