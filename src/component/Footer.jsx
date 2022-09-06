@@ -56,14 +56,7 @@ const Footer = () => {
                    <FaChevronRight />
                     <a href="">Lorem Ipsum</a>
                   </li>
-                  <li>
-                   <FaChevronRight />
-                    <a href="">Lorem Ipsum</a>
-                  </li>
-                  <li>
-                   <FaChevronRight />
-                    <a href="">Lorem Ipsum</a>
-                  </li>
+                  
                 </ul>
               </div>
               <div class="col-lg-2 col-nd-6 footer-links">
