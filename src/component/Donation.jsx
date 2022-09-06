@@ -53,10 +53,6 @@ const Donation = () => {
                         <input type="radio" name="radio-group"/>
                         <label for="fund-2">$200</label>
                       </div>
-                      <div className="funds">
-                        <input type="radio" name="radio-group" />
-                        <label for="Other">Others</label>
-                      </div>
                     </div>
                     </div>
                   </div>
