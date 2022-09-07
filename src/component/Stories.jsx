@@ -52,7 +52,7 @@ const Stories = () => {
                   <h2>Education</h2>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing
                      elit. Cumque accusantium tenetur natus cum 
-                    iure voluptas amet ab enim maiores maxime.</p>
+                    iure voluptas amet, dutt sataf ab enim maiores maxime.</p>
                 </div>
               </div>
               
