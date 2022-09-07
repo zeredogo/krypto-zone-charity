@@ -103,7 +103,7 @@ const Team = () => {
                   <img src={Team4} className="img-fluid" alt=""/>
                 </div>
                 <div className="team-info">
-                  <h4>Ice Prince</h4>
+                  <h4>Kate</h4>
                   <span>Specification</span>
                   <div className="social">
                     <a href="">
