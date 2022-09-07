@@ -24,7 +24,7 @@ const Team = () => {
                   <img src={Team1} className="img-fluid" alt=""/>
                 </div>
                 <div className="team-info">
-                  <h4>Wizkid</h4>
+                  <h4>Moses</h4>
                   <span>Specification</span>
                   <div className="social">
                     <a href="">
