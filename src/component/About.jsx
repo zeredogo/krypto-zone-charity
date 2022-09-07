@@ -53,9 +53,9 @@ const About = () => {
               <img src={About1} className='img' alt='about image 1'/>
               <h3><a href='#'>About Us</a></h3>
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing
-                 elit. Aut dicta amet enim corrupti aspernatur, 
+                 elit. Aut dicta amet, enim corrupti aspernatur, 
                  cumque libero adipisci harum unde,ad expedita 
-                 nobis quisquam laboriosam fugiat!</p>
+                 nobis quisquam laboriosam tell fugiat!</p>
              </div>
              <div className='tab-pane container p-0
              ' id='about-2'>
