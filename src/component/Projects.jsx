@@ -15,7 +15,7 @@ const Projects = () => {
             <div className="col-10 mx-auto text-center">
               <h1 className="text-uppercase">Our Latest Projects</h1>
               <p>Lorem ipsum dolor site ameta consectetur adipisicing 
-                elita till Voluptates, sales rerum.</p>
+                elita till Voluptates, Full date online sales rerum.</p>
             </div>
           </div>
           
