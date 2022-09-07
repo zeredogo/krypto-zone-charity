@@ -76,7 +76,7 @@ const Team = () => {
                   <img src={Team3} className="img-fluid" alt=""/>
                 </div>
                 <div className="team-info">
-                  <h4>Davido</h4>
+                  <h4>Joel</h4>
                   <span>Specification</span>
                   <div className="social">
                     
