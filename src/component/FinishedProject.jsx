@@ -21,7 +21,7 @@ const FinishedProject = () => {
                   <span className="des">
                     <h2>Lorem Ipsum</h2>
                     <p className="mb-0">
-                      Lorem ipsum dolor sit, amet consectetur 
+                      Lorem ipsum dolor sit, Emit ifakus amet consectetur 
                       adipisicing elit. Molestiae, sunt.
                     </p>
                   </span>
