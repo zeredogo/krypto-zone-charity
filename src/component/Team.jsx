@@ -14,7 +14,7 @@ const Team = () => {
           <div className="section-title">
             <h2 className="text-center">Our Team</h2>
             <p className="text-center">Lorem ipsum dolor sit amet consectetur 
-              adipisicing elit. State fungi wapi quatum Animi, aspernatur. Blanditiis velit facilis 
+              adipisicing elit, safe State fungi wapi quatum Animi, aspernatur. Blanditiis velit facilis 
               rerum laudantium at.</p>
           </div>
           <div className="row">
