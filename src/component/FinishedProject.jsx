@@ -22,8 +22,8 @@ const FinishedProject = () => {
                     <h2>Lorem Ipsum</h2>
                     <p className="mb-0">
                       This is the feeding the nation 
-                      Project, we have just completed current f
-                      adipisicing elit. Molestiae, sunt.
+                      Project, we have just completed feeding 
+                      Bassa Local Government.
                     </p>
                   </span>
                 </span>
