@@ -37,7 +37,9 @@ const FinishedProject = () => {
                   <span className="des">
                     <h2>Lorem Ipsum</h2>
                     <p className="mb-0">
-                      This project was done in Jos 
+                      This project was done in Jos to 
+                      Educate more than 1 million Studen 
+                      for fee.  
                     </p>
                   </span>
                 </span>
