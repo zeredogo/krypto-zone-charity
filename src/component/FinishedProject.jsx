@@ -85,8 +85,9 @@ const FinishedProject = () => {
                   <span className="des">
                     <h2>Skill</h2>
                     <p className="mb-0">
-                      Lorem ipsum dolor sit, amet consectetur 
-                      adipisicing elit. Molestiae, sunt.
+                      This project is all about training over 1 million 
+                      people out of every state in Nigeria, the project 
+                      will cover all part of Technology and some others.   
                     </p>
                   </span>
                 </span>
