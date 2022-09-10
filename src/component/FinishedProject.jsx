@@ -53,7 +53,8 @@ const FinishedProject = () => {
                   <span className="des">
                     <h2>Lorem Ipsum</h2>
                     <p className="mb-0">
-                      This is a finish housing.
+                      This is a finish housing we just 
+                      finish too .
                     </p>
                   </span>
                 </span>
