@@ -51,7 +51,7 @@ const FinishedProject = () => {
               <a className="project-item" href="">
                 <span className="text">
                   <span className="des">
-                    <h2>Lorem Ipsum</h2>
+                    <h2>House</h2>
                     <p className="mb-0">
                       This is a finish housing we just 
                       finish too house about 5000 family
