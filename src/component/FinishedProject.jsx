@@ -67,7 +67,7 @@ const FinishedProject = () => {
               <a className="project-item" href="">
                 <span className="text">
                   <span className="des">
-                    <h2>Lorem Ipsum</h2>
+                    <h2>Clean Water</h2>
                     <p className="mb-0">
                       Lorem ipsum dolor sit, amet consectetur 
                       adipisicing elit. Molestiae, sunt.
