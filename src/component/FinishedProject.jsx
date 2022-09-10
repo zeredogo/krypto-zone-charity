@@ -35,7 +35,7 @@ const FinishedProject = () => {
               <a className="project-item" href="">
                 <span className="text">
                   <span className="des">
-                    <h2>Lorem Ipsum</h2>
+                    <h2>Education</h2>
                     <p className="mb-0">
                       This project was done in Jos to 
                       Educate more than 1 million Studen 
