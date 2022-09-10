@@ -69,8 +69,9 @@ const FinishedProject = () => {
                   <span className="des">
                     <h2>Clean Water</h2>
                     <p className="mb-0">
-                      Lorem ipsum dolor sit, amet consectetur 
-                      adipisicing elit. Molestiae, sunt.
+                      This project was done in over 30 local 
+                      government to produce clean water for 
+                      the community. 
                     </p>
                   </span>
                 </span>
@@ -82,7 +83,7 @@ const FinishedProject = () => {
               <a className="project-item" href="">
                 <span className="text">
                   <span className="des">
-                    <h2>Lorem Ipsum</h2>
+                    <h2>Skill</h2>
                     <p className="mb-0">
                       Lorem ipsum dolor sit, amet consectetur 
                       adipisicing elit. Molestiae, sunt.
