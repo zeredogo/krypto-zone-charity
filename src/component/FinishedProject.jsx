@@ -19,7 +19,7 @@ const FinishedProject = () => {
               <a className="project-item" href="">
                 <span className="text">
                   <span className="des">
-                    <h2>Lorem Ipsum</h2>
+                    <h2>Food Aid</h2>
                     <p className="mb-0">
                       This is the feeding the nation 
                       Project, we have just completed feeding 
