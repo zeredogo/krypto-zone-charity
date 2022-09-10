@@ -54,7 +54,7 @@ const FinishedProject = () => {
                     <h2>Lorem Ipsum</h2>
                     <p className="mb-0">
                       This is a finish housing we just 
-                      finish too .
+                      finish too house about 5000.
                     </p>
                   </span>
                 </span>
