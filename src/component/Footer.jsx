@@ -45,12 +45,8 @@ const Footer = () => {
                 <h4>Useful links</h4>
                 <ul>
                   <li>
-                    <FaChevronRight />
-                    <a href="">Lorem Ipsum</a>
-                  </li>
-                  <li>
                    <FaChevronRight />
-                    <a href="">Lorem Ipsum</a>
+                    <a href="">save a life charity</a>
                   </li>
                   <li>
                    <FaChevronRight />
