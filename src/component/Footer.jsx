@@ -50,7 +50,7 @@ const Footer = () => {
                   </li>
                   <li>
                    <FaChevronRight />
-                    <a href="">Lorem Ipsum</a>
+                    <a href="">united nation charity</a>
                   </li>
                   
                 </ul>
