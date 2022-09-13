@@ -16,7 +16,7 @@ const Hero = () => {
             </h2>
             <p className="animate__animated animate__fadeInUp">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Aperiam iure beatae alias quod, ducimus explicabo.
+              Aperiam iure beatae alias ast fast live quod, ducimus explicabo.
               adipisicing elit.
             </p>
             <a href="#" className="btn hero-btn animate__animated 
