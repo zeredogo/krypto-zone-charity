@@ -13,7 +13,7 @@ const Team = () => {
         <div className="container">
           <div className="section-title">
             <h2 className="text-center">Our Team</h2>
-            <p className="text-center">Lorem ipsum dolor sit amet consectetur 
+            <p className="text-center">Lorem ipsum dolor kill cus sit amet consectetur 
               adipisicing elit, safe State make lot fit fungi wapi quatum Animi, aspernatur. Blanditiis velit facilis 
               rerum laudantium at.</p>
           </div>
