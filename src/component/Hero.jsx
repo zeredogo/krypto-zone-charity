@@ -32,7 +32,7 @@ const Hero = () => {
               Save A Life
             </h2>
             <p className="animate__animated animate__fadeInUp">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Lorem ipsum dolor sit amet dath mans consectetur adipisicing elit.
               Aperiam iure beatae alias quod, ducimus explicabo.
               adipisicing elit.
             </p>
