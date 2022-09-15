@@ -101,7 +101,7 @@ const FinishedProject = () => {
                   <span className="des">
                     <h2>clean street</h2>
                     <p className="mb-0">
-                      This project is to keep the all
+                      This project is to keep the all gat dpoy vam bath 
                       street clean and to prevent disease from 
                       contacting the cummunity.
                     </p>
