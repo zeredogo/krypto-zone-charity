@@ -40,7 +40,8 @@ const FinishedProject = () => {
                       This project was done in Jos to 
                       Educate more than 1 million Studen 
                       for free and we will help secure the world
-                      from the extention of the disater that.  
+                      from the extention of the disater that  about
+                      to befall them.  
                     </p>
                   </span>
                 </span>
