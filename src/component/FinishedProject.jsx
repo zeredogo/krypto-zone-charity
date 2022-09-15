@@ -39,7 +39,7 @@ const FinishedProject = () => {
                     <p className="mb-0">
                       This project was done in Jos to 
                       Educate more than 1 million Studen 
-                      for fee.  
+                      for free and we will help.  
                     </p>
                   </span>
                 </span>
