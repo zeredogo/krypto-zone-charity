@@ -16,7 +16,7 @@ const Projects = () => {
               <h1 className="text-uppercase">Our Latest Projects</h1>
               <p>Lorem ipsum dolor site ameta consectetur adipisicing
               dall man yat  shpall joke xap hall salt capucaterw zamxen lock
-                elita till Voluptates, Full date online sales rerum.</p>
+                elita till Voluptates, Full date online fall sales rerum.</p>
             </div>
           </div>
           
