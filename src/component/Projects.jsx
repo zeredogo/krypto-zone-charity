@@ -14,7 +14,8 @@ const Projects = () => {
           <div className="row my-3">
             <div className="col-10 mx-auto text-center">
               <h1 className="text-uppercase">Our Latest Projects</h1>
-              <p>Lorem ipsum dolor site ameta consectetur adipisicing 
+              <p>Lorem ipsum dolor site ameta consectetur adipisicing
+              dall man yat  shpall joke xap hall 
                 elita till Voluptates, Full date online sales rerum.</p>
             </div>
           </div>
