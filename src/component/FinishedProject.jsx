@@ -57,7 +57,7 @@ const FinishedProject = () => {
                     <p className="mb-0">
                       This is a finish housing we just 
                       finish too house about 50,000 family
-                      in Nigeria.
+                      in Nigeria and beyond.
                     </p>
                   </span>
                 </span>
