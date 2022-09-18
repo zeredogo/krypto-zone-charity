@@ -54,7 +54,7 @@ const FinishedProject = () => {
                   <span className="des">
                     <h2>House</h2>
                     <p className="mb-0">
-                      This is a funished house we just 
+                      This is a funished house, we just 
                       finish too house about 50,000 family
                       in Nigeria and beyond.
                     </p>
