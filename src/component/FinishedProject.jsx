@@ -40,7 +40,7 @@ const FinishedProject = () => {
                       This project was done in Jos to 
                       Educate more than 1 million Student in Technology,
                       and science for free and we will help secure the world
-                      from the extention of Education  
+                      from the extention of Education in africa.  
                     </p>
                   </span>
                 </span>
