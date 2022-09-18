@@ -39,10 +39,8 @@ const FinishedProject = () => {
                     <p className="mb-0">
                       This project was done in Jos to 
                       Educate more than 1 million Student in Technology,
-
-                      for free and we will help secure the world
-                      from the extention of the disater that  about
-                      to befall them.  
+                      and science for free and we will help secure the world
+                      from the extention of Education  
                     </p>
                   </span>
                 </span>
