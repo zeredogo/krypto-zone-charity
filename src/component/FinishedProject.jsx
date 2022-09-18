@@ -37,7 +37,7 @@ const FinishedProject = () => {
                   <span className="des">
                     <h2>Education</h2>
                     <p className="mb-0">
-                      This project was done in Jos to 
+                      This project was done in Jos, to 
                       Educate more than 1 million Student in Technology,
                       and science for free and we will help secure the world
                       from the extention of Education in africa.  
