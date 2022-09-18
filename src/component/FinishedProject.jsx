@@ -38,7 +38,7 @@ const FinishedProject = () => {
                     <h2>Education</h2>
                     <p className="mb-0">
                       This project was done in Jos to 
-                      Educate more than 1 million Studen 
+                      Educate more than 1 million Studen in tech
                       for free and we will help secure the world
                       from the extention of the disater that  about
                       to befall them.  
