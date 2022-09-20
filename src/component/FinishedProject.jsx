@@ -54,9 +54,9 @@ const FinishedProject = () => {
                   <span className="des">
                     <h2>House</h2>
                     <p className="mb-0">
-                      This is a funished house, we just 
-                      finish too house about 50,000 family
-                      in Nigeria and beyond.
+                      This is a funicx xc  shed house, we f dcx just 
+                      finishcn  too ho c xc use abo c s ut 50 vc c  dc x,000 family
+                      in Nic bf gd vv  vvdc geria c zxcx and beyond.
                     </p>
                   </span>
                 </span>
