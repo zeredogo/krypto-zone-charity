@@ -104,7 +104,7 @@ const FinishedProject = () => {
                     <h2>clean street</h2>
                     <p className="mb-0">
                       This project is to keep the all gat deploy vam?
-                      ejicdbdh bd gaxaxv jjaxsa  sxsj bath 
+                      ejicdbdh bd gaxaxv jjaxsa  sxsj bath hall g utbd 
                       street clean and to prevent disease from 
                       contacting the cummunity.
                     </p>
