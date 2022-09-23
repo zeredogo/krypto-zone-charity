@@ -74,7 +74,7 @@ const FinishedProject = () => {
                       government to produce clean water for 
                       the community. exacle s x dsx s as ged xat javamy , dfma
                       as xnajsbjn  hull vad skull governmente  hb n jc sh i 
-                      ebhve bebbiuchn erfh   
+                      ebhve bebbiuchn erfh  nav school  
                     </p>
                   </span>
                 </span>
