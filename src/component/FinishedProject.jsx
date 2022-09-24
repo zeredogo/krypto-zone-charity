@@ -72,9 +72,9 @@ const FinishedProject = () => {
                     <p className="mb-0">
                       This project was done in over 30 local 
                       government to produce clean water for 
-                      the community. exacle s x dsx s as ged xat javamy , dfma
+                      the community. exacle s x dsx sap as ged xat javamy , dfma
                       as xnajsbjn  hull vad skull governmente  hb n jc sh i 
-                      ebhve bebbiuchn erfh  nav school  massive reward.
+                      ebhve bebbiuchn erfh  nav, school  massive reward.
                     </p>
                   </span>
                 </span>
