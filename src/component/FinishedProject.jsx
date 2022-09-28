@@ -55,7 +55,7 @@ const FinishedProject = () => {
                     <h2>House</h2>
                     <p className="mb-0">
                       This is a funicx xc  shed house, we f dcx just 
-                      finishcn  too ho c xc use abo c s ut 50 vc c  dc x,000 family
+                      finishcn  too ho c xook use abo c s ut 50 vc c  dc x,000 family
                       in Nic bifrose gd vv  vave disclan geria c zxcx and beyond.
                     </p>
                   </span>
